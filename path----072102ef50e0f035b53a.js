@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{88:function(e,t){e.exports={data:{allMarkdownRemark:{edges:[{node:{fields:{slug:"/exercises/basic-starter/"},frontmatter:{title:"Create a Starter Repo",difficulty:1,categories:["Javascript","CSS","HTML","git"]}}},{node:{fields:{slug:"/exercises/using-ajax/"},frontmatter:{title:"Use AJAX to connect to an external API",difficulty:2,categories:["Javascript"]}}}]}},layoutContext:{}}}});
+//# sourceMappingURL=path----072102ef50e0f035b53a.js.map

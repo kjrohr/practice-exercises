@@ -1,0 +1,40 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-db720dc2c70ad65edeb4.js",
+      "component---src-pages-index-js-db720dc2c70ad65edeb4.js.map"
+    ],
+    "path---": [
+      "path----fe6c4e27ce358f24126e.js",
+      "path----fe6c4e27ce358f24126e.js.map"
+    ],
+    "path---exercises-using-ajax": [
+      "path---exercises-using-ajax-5d883d97413b91a8259a.js",
+      "path---exercises-using-ajax-5d883d97413b91a8259a.js.map"
+    ],
+    "component---src-templates-exercise-js": [
+      "component---src-templates-exercise-js-d2b6c907a0a56a5d2693.js",
+      "component---src-templates-exercise-js-d2b6c907a0a56a5d2693.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-abc27e9abd9885ec7ab8.js",
+      "component---src-layouts-index-js-abc27e9abd9885ec7ab8.js.map"
+    ],
+    "path---index": [
+      "path---index-dba4f4f0ffaf68dff683.js",
+      "path---index-dba4f4f0ffaf68dff683.js.map"
+    ],
+    "commons": [
+      "commons-e43ccb238c375a62fd86.js",
+      "commons-e43ccb238c375a62fd86.js.map"
+    ],
+    "app": [
+      "app-b4ed21be7f3adddb38b1.js",
+      "app-b4ed21be7f3adddb38b1.js.map"
+    ],
+    "path---exercises-basic-starter": [
+      "path---exercises-basic-starter-5e1be78efa041d78894f.js",
+      "path---exercises-basic-starter-5e1be78efa041d78894f.js.map"
+    ]
+  }
+}
